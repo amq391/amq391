@@ -1,7 +1,7 @@
 # Hi there, I'm Aaron Quino! 👋
 
 ## About Me
-I'm a passionate Computer Science student at the University of Illinois at Chicago (UIC) with a focus on Computer Systems. My academic journey has been marked by a curiosity for concurrent programming, software design, and networking. I'm actively seeking opportunities in software engineering where I can leverage my skills and contribute to impactful projects.
+I'm a passionate Computer Science graduate from the University of Illinois at Chicago (UIC) with a focus on Computer Systems. My academic journey has been marked by a curiosity for concurrent programming, software design, and networking. I'm actively seeking opportunities in software engineering where I can leverage my skills and contribute to impactful projects.
 
 - 🔭 I’m currently working on a real-time vocoder using Python, NumPy, Librosa, and PyQt5.
 - 🌱 I’m learning more about audio signal processing and concurrent programming techniques.
