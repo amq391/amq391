@@ -43,7 +43,7 @@ Here are some of my notable projects available on GitHub:
 ## Personal Interests 🎸🎹🍹
 When I'm not coding, you can find me exploring my other interests:
 - 🎸 Playing guitar and piano, with a passion for music production.
-- 🌍 Learning languages: fluent in English, Spanish, Italian, and exploring Russian.
+- 🌍 Learning languages: fluent in English, proficient Spanish, exploring Mandarin Chinese, and currently learning Italian and Russian.
 - 🍹 Mixology enthusiast: crafting cocktails and exploring new recipes.
 
 ## Let's Connect! 🌐
