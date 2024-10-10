@@ -25,8 +25,8 @@ Here are some of my notable projects available on GitHub:
   - Technologies: Java.
  
 - **CigarFinder**:
-  - Developed a Java Spring Boot application to help with looking up cigar information as Store Associate at Binnys's Beverage Depot
-  - Technologies: Java, Spring Boot Framework, Maven
+  - Developed a Java Spring Boot application to query a PostgreSQL database for looking up cigar information as Store Associate at Binnys's Beverage Depot
+  - Technologies: Java, Spring Boot Framework, Maven, PostgreSQL
 
 - **Audio Manipulation Language**:
   - Designed an interpreter in OCaml for intuitive audio processing.
